@@ -195,9 +195,3 @@ Bachelor of Science in Computer Science & Information
 </a>
 
 </p>
-
----
-
-### 💡 Always learning. Always building. Always improving.
-
-⭐ Feel free to explore my repositories and connect with me!

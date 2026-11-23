@@ -1,6 +1,12 @@
+![Ahmed Walied - Mobile App Developer](assets/2-profile-banner.png)
+
 # Hi, I'm Ahmed Walied 👋
 
 ### Mobile App Developer | Flutter & Android Native
+
+[View my portfolio](https://ahmedwalied26.github.io/My_Portfolio/) | [LinkedIn](https://www.linkedin.com/in/ahmed-w-hassan-a18282387/)
+
+Open to internships and junior mobile developer roles.
 
 I'm a Mobile App Developer passionate about building clean, efficient, and user-friendly mobile applications using Flutter and native Android development.
 
@@ -55,7 +61,7 @@ I'm currently a fourth-year Computer Science & Information student at the Egypti
 
 ## 🚀 Featured Projects
 
-### 🌱 Mazra3ty — Freelance Flutter Project
+### 🌱 Mazra3ty - Freelance Flutter Project
 
 A Flutter application developed and delivered for a client.
 
@@ -66,7 +72,7 @@ A Flutter application developed and delivered for a client.
 - Implemented local data persistence.
 - Focused on maintainability and scalability.
 
-### 🛒 E-Commerce App — Personal Project
+### 🛒 E-Commerce App - Personal Project
 
 A full-featured Flutter e-commerce application integrated with REST APIs.
 
@@ -78,7 +84,7 @@ A full-featured Flutter e-commerce application integrated with REST APIs.
 - API integration and asynchronous data handling.
 - Responsive UI across different screen sizes.
 
-### 🎬 Movie App — Personal Project
+### 🎬 Movie App - Personal Project
 
 A Flutter movie application that retrieves and displays movie data from a REST API.
 
@@ -89,7 +95,7 @@ A Flutter movie application that retrieves and displays movie data from a REST A
 - Integrated Firebase Authentication for user registration and login.
 - Separated UI, business logic, and data responsibilities.
 
-### 📅 Evently — Flutter & Firebase
+### 📅 Evently - Flutter & Firebase
 
 An event management application built with Flutter and Firebase.
 
@@ -99,7 +105,7 @@ An event management application built with Flutter and Firebase.
 - Managed dynamic application data using state management.
 - Built a responsive and user-friendly interface.
 
-### 📰 News App — Flutter & REST API
+### 📰 News App - Flutter & REST API
 
 A news application that retrieves and displays news articles from a REST API.
 
@@ -109,7 +115,7 @@ A news application that retrieves and displays news articles from a REST API.
 - Responsive article feeds.
 - Organized and maintainable application structure.
 
-### ☪️ Islami App — Flutter & Provider
+### ☪️ Islami App - Flutter & Provider
 
 An Islamic content application combining external data with REST API integration.
 
@@ -152,15 +158,15 @@ A customizable and responsive empty-state widget package for Flutter application
 **Egyptian E-Learning University (EELU)**  
 Bachelor of Science in Computer Science & Information  
 📍 Fayoum, Egypt  
-🎓 Fourth Year — Expected Graduation: May 2027  
+🎓 Fourth Year - Expected Graduation: May 2027  
 📊 Cumulative GPA: 3.38 / 4.00
 
 ---
 
 ## 📚 Training & Certifications
 
-- **Route Academy** — Completed Flutter / Software Development Training
-- **Information Technology Institute (ITI)** — One-Month Certificate
+- **Route Academy** - Completed Flutter / Software Development Training
+- **Information Technology Institute (ITI)** - One-Month Certificate
 
 ---
 
@@ -178,6 +184,8 @@ Bachelor of Science in Computer Science & Information
 
 ## 🤝 Let's Connect
 
+[Portfolio](https://ahmedwalied26.github.io/My_Portfolio/)
+
 <p align="left">
   <a href="https://github.com/AhmedWalied26">
     <img src="https://img.shields.io/badge/GitHub-AhmedWalied26-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -192,6 +200,3 @@ Bachelor of Science in Computer Science & Information
 ### 💡 Always Learning. Always Building. Always Improving.
 
 ⭐ Feel free to explore my repositories and connect with me!
-</a>
-
-</p>

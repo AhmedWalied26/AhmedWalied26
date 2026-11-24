@@ -1,4 +1,4 @@
-![Ahmed Walied - Mobile App Developer](assets/2-profile-banner.png)
+![Ahmed Walied - Mobile App Developer](assets/11-ahmed-github-banner.gif)
 
 # Hi, I'm Ahmed Walied 👋
 
